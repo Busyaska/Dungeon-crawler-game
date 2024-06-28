@@ -1,0 +1,9 @@
+{
+    "health": 400,
+    "current_weapon": [
+        false,
+        false,
+        true
+    ],
+    "amount_of_money": 178
+}
